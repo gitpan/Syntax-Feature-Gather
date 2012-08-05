@@ -1,0 +1,10 @@
+Changes
+LICENSE
+MANIFEST
+META.json
+Makefile.PL
+README
+dist.ini
+lib/Syntax/Feature/Gather.pm
+t/release-pod-syntax.t
+t/syntax.t
