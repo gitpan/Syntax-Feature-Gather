@@ -5,7 +5,7 @@ use warnings;
 
 # ABSTRACT: Provide a gather keyword
 
-our $VERSION = '1.002000'; # VERSION
+our $VERSION = '1.002001'; # VERSION
 
 use Syntax::Keyword::Gather ();
 
@@ -22,9 +22,8 @@ sub install {
 
 1;
 
-
-
 __END__
+
 =pod
 
 =head1 NAME
@@ -33,7 +32,7 @@ Syntax::Feature::Gather - Provide a gather keyword
 
 =head1 VERSION
 
-version 1.002000
+version 1.002001
 
 =head1 SYNOPSIS
 
@@ -78,10 +77,9 @@ Damian Conway
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Arthur Axel "fREW" Schmidt.
+This software is copyright (c) 2013 by Arthur Axel "fREW" Schmidt.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
 =cut
-
